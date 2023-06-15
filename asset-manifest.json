@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChoiFLIX/static/css/main.9826f6b4.chunk.css",
+    "main.js": "/ChoiFLIX/static/js/main.5035f022.chunk.js",
+    "main.js.map": "/ChoiFLIX/static/js/main.5035f022.chunk.js.map",
+    "runtime~main.js": "/ChoiFLIX/static/js/runtime~main.c0fd7d89.js",
+    "runtime~main.js.map": "/ChoiFLIX/static/js/runtime~main.c0fd7d89.js.map",
+    "static/js/2.3e54bc0a.chunk.js": "/ChoiFLIX/static/js/2.3e54bc0a.chunk.js",
+    "static/js/2.3e54bc0a.chunk.js.map": "/ChoiFLIX/static/js/2.3e54bc0a.chunk.js.map",
+    "index.html": "/ChoiFLIX/index.html",
+    "precache-manifest.7288b61fc6607874eaa9418a4f3b35fb.js": "/ChoiFLIX/precache-manifest.7288b61fc6607874eaa9418a4f3b35fb.js",
+    "service-worker.js": "/ChoiFLIX/service-worker.js",
+    "static/css/main.9826f6b4.chunk.css.map": "/ChoiFLIX/static/css/main.9826f6b4.chunk.css.map"
+  }
+}
